@@ -14,4 +14,9 @@ Upload all files to your URL and open it with Mobile Safari.
 2. Tap and hold the "Delete me!"-App and (guess what) delete the app.
 3. Success!
 
+# Demo
+
+Open http://hide.pheraph.net on your iOS-device to try it out, but I really recommend to install it on your own host.
+Who wants to install some shady plists from an unknown source?
+
 Kudos to David Gölzhäuser for his HiddenApp (removed from the AppStore) and his Webapp available here: http://idoodler.de/hideapps.html
