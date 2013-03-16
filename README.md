@@ -14,6 +14,11 @@ Upload all files to your URL and open it with Mobile Safari.
 2. Tap and hold the "Delete me!"-App and (guess what) delete the app.
 3. Success!
 
+# Known Problems
+
+* I noticed my Music Player (Ecoute.app) stopped working if the native Music.app was previously hidden.
+* Hidden Apps appear in the Notification-Center with their Bundle Identifier (com.apple.foo) instead of their name.
+
 # Demo
 
 Open http://hide.pheraph.net on your iOS-device to try it out, but I really recommend to install it on your own host.
